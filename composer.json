@@ -1,0 +1,14 @@
+{
+    "name": "ease-mall/filesystem-qiniu",
+    "description": "Flysystem adapter for the Qiniu storage.",
+    "authors": [
+        {
+            "name": "Easeava",
+            "email": "easeava@gmail.com"
+        }
+    ],
+    "require": {
+        "qiniu/php-sdk": "^7.3"
+    },
+    "license": "MIT"
+}
